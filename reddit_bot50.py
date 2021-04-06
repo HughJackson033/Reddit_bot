@@ -6,11 +6,11 @@ import time
 
 
 
-reddit = praw.Reddit(client_id = 'dZgHviGKVAV2Kw',
-client_secret = '7HQadaouf7W428xNwHCjY26cbVQASw',
+reddit = praw.Reddit(client_id = 'BAG5nKlB9zIQwg',
+client_secret = 'uXroeieha2oXN3ahK08IfpBz-0jVRg',
 user_agent = 'console: message_bot 1.0',
-username = 'Standard_Simp8640',
-password = 'jackson_hugh11')
+username = 'onlykeyla',
+password = '1233456')
 
 message = "Hey babe will you enter my new sub and check my divine body XoXo? r/Divinebody"
 
